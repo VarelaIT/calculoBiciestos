@@ -1,5 +1,5 @@
 {
-  "name": "mier15nov23",
+  "name": "calculoBiciesto",
   "version": "1.0.0",
   "description": "tarea",
   "main": "index.js",
@@ -11,9 +11,7 @@
   },
   "author": "Ismael Varela",
   "license": "ISC",
-  "dependencies": {
-    "readline-sync": "^1.4.10"
-  },
+  "dependencies": ,
   "devDependencies": {
     "nodemon": "^3.0.1",
     "tcs": "^10.0.2",
